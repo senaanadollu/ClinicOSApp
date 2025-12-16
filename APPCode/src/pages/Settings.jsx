@@ -142,7 +142,7 @@ function Settings() {
                                             <span className="flex items-center gap-2">
                                                 <RefreshCw className="w-3 h-3" /> Son senkronizasyon: 10 dakika önce
                                             </span>
-                                            <Button variant="destructive" size="sm" variant="outline" className="text-red-600 border-red-200 hover:bg-red-50">
+                                            <Button variant="outline" size="sm" className="text-red-600 border-red-200 hover:bg-red-50">
                                                 Bağlantıyı Kes
                                             </Button>
                                         </div>
